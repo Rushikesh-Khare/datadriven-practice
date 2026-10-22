@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/giant_kite_9846), committe
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-17 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-06-30 |
 
 <!-- datadriven:index:end -->
